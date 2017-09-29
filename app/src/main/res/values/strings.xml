@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session9Assignment4</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="menu_action1">Action 1</string>
+    <string name="menu_action2">Action 2</string>
+    <string name="menu_action3">Action 3</string>
+</resources>
